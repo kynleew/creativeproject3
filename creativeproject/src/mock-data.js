@@ -14,14 +14,14 @@ let mock = [{
     type: "casual",
     image: 'shoe2.jpg'
   },
-  {
-    id: 3,
-    name: "Black Nike",
-    price: "$50.92",
-    gender: "Men",
-    type: "sport",
-    iimage: 'shoe3.jpg'
-  },
+  // {
+  //   id: 3,
+  //   name: "Black Nike",
+  //   price: "$50.92",
+  //   gender: "Men",
+  //   type: "sport",
+  //   iimage: 'shoe3.jpg'
+  // },
   {
     id: 4,
     name: "Tan Converse",
